@@ -1,3 +1,9 @@
+---
+title: Homeless Human
+tags: housing crisis employment food clothing help
+categories: housing crisis employment food clothing help
+---
+
 _For those who want to help_
 [How to Help](wiki/how-to-help)
 
