@@ -47,7 +47,7 @@ _Data shows: “You seem,” “So you…”, and “It sounds like…” are th
 
 - - -
 
-#### Open and Closed-Ended Questions ####
+#### Open Ended Questions ####
 Asking an open-ended question means positing something non-binary. In this way, we let the client expand on whatever thoughts and feelings they need to while searching for an answer more complex than _yes or no_. For you, this allows exploration without having to resort to a professional interview. This needs to be personal. We guide the conversation in an attempt to gather information we need to help the client; but we need them to tell their story to get that.
 
 A closed-ended question can be answered with a simple _yes or no_. They're almost never a good idea, because they box the client into a set of options for what they feel or think. This can prevent you from getting the information you need to go further with helping.
@@ -92,7 +92,7 @@ Impactful feeling words are useful. The other side of that skill is avoiding min
 [Tentafiers](#tentafiers)
 >Enable you to avoid assumptions about what the client is feeling, or to guide them toward sharing more without asking them another question.
 
-[Empathetic Response](#empathetic-response)
+[Empathetic Response](training-direct-stage-one-empathetic-response)
 >Shows a client that you're present and paying attention. It shows that you honestly and sincerely care about what they're going through much more effectively than sympathy (ie, "I'm sorry"). If this one doesn't come naturally to you, it's not easy at all to learn. It'll take a lot of work.
 
 [Strength Identifiers](#strength-identifiers)
