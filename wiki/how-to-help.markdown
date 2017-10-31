@@ -2,7 +2,7 @@
 
 While charity and donations are helpful, you wouldn't be reading this if that was enough for you. We support people in efforts to directly help to get the homeless of their community into better living situations. While there are many useful guidelines and resources, there is no one-size-fits-all soloution to homelessness and poverty. Each and every person needs the genuine help and love of another human, if we're to fix any of this.
 
-It can be difficult to directly approach a person who seems in need of help. Even if the person has reached out, it's not easy to handle the situation in the best way. Often, the best way can be completely counterintuitive. For that reason, we've put together a comprehensive training system for methodically handling the homeless with care. This seven part method is based on the best statistics, psychology, economics, and other solid data, and completely avoid any subjective, opinionated, or judgmental views.
+It can be difficult to directly approach a person who seems in need of help. Even if the person has reached out, it's not easy to handle the situation in the best way. Often, the best way can be completely counterintuitive. For that reason, we've put together a comprehensive training system for methodically handling the homeless with care. This seven part method is based on the best statistics, psychology, economics, and other solid data, and completely avoid any subjective, opinionated, or judgmental views. If you need it (Seriously. You want to help. This is good.), there's a lesson on [Cultural Awarness and Sensitivity](#cultural-awareness-and-sensitivity). 
 
 ## Direct Aid Model
 
@@ -27,3 +27,32 @@ Now that we've figured out what a better future means to the client, we can star
 - - -
 
 ### [Stage Five: Following Through](training-direct-stage-five)
+
+- - -
+
+### Cultural Awareness and Sensitivity ###
+We're part of a highly diverse population. As a helper (a person doing outreach), you will be meeting people of all ages, races, ethnicities, cultures, genders, sexualities, and socio-economic backgrounds. Using strong [Empathetic Response](training-direct-stage-one-empathetic-response) and solid [Active Listening](training-direct-stage-one#reflection--paraphrasing) skills, you can support _anyone_.
+
+To dispell some common thoughts that make this more difficult:
+
+>_Myth_
+>Everyone is equal, so we should ignore race, ethnicity, and culture.
+>_Fact_
+>Everyone does deserve to be treated equally and with respect. However, we are in no way all the same! Our different cultures and life experiences define our differences, and those differences make us human. 
+
+_Myth_
+People who belong to a particular racial, ethnic or cultural group are similar.
+_Fact_
+Everyone is unique. Within any given culture, there are differences just as within your own.
+
+_Myth_
+Discrimination isn't a real problem anymore, and people who say it is are playing the "race card".
+_Fact_
+No matter how _you_ may feel, it's important to validate the client's feelings in order to help them. Using the phrase "playing the race card" in particular completely invalidates them on a number of levels. It's a responsibility to empathise fully and place yourself into their shoes - not your own.
+
+_Myth_
+Easy targets for slurs should just get over it. It's just words, and people are jerks.
+_Fact_
+We have no right or reason to judge how the client feels about anything. We use the best empathetic skills we have to show (not tell) our client that we do actually understand their feelings. This doesn't require sympathy, and you don't need to agree with the person's feelings. But you do need to understand and validate them.
+
+Bearing these few things in mind, you can go out being culturally conscious, and use it to shape how you treat others. Whether that's natural for you, or anything but natural, you can adapt to your biases and get them out of the way. But in order to do that, you have to be _completely honest_ with yourself. Any bias, including ones you may _feel_ are justified, can be controlled. You have to identify your bias before you can work with it.
