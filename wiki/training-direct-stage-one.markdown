@@ -7,135 +7,52 @@ By employing skills such as active listening, empathy, unconditional positive re
 Your first impression is going to be important. The way you approach and greet the person matters a lot, and is something that needs thought and deliberate action. For example "Hi, I'm Casey. Do you have somewhere to live right now?", or "Excuse me, my name is Casey, can I help you out?". It needs to be made clear immediately that your intent is to offer aid, competently. Your goal is to create a connection with the person. There are many strategies that can help with this; an odd example is making sure to ask their name around five or six sentences in, if they haven't already given it. Restating their name at that point if they've already given it is also effective.
 
 
+### Reflection & Paraphrasing
+When we say "active listening", we mean something that's very likely not what you may have learned before. _You can't skip this part_. Reflection and paraphrasing are what we call it when you've fully listened to your client, and synthesize what they have expressed back to them in a manner that makes them know they are being heard. When doing this, it's _vital_ that you avoid parroting what the client has said to you word-for-word. Any AI can accomplish that, and you need to be very human for this to work. We want to process what the person is saying, and reflect the essential meaning of what they are telling you.
 
-Reflection & Paraphrasing
+#### Parroting:
+>Client: “I feel like I've been abandoned by everyone, and I can't even talk to my family.”
 
-Reflection and paraphrasing refer to re-wording statements to demonstrate your understanding of the issue. These techniques show that you are listening to the texter and doing your best to put yourself in their shoes. You can also use it when you want to double-check that you’re understanding the texter correctly. When utilizing this technique, don’t repeat (parrot) what the texter says word for word (that comes across as robotic and doesn’t show understanding). Instead, process what they say and reflect the essence of what they are going through. This shows the texter that you really hear them.
-Parroting
+>Helper: “I hear you’re feeling abandoned, and can't talk to anyone?"
 
-Parroting
+#### Paraphrasing:
 
-Texter: “I’m so alone and the fight with my boyfriend is just really pissing me off and now I can’t even talk to him about what I’m going through.”
-Crisis Counselor: “So you’re saying you’re so alone and the fight with your boyfriend is just really pissing you off and now you can’t even talk to him about what you’re going through?”
-Wish: Try not to repeat (parrot) what the texter says word for word. Instead, take a shot at processing what they are telling you to show that you are truly listening.
-Paraphrasing
+>Client: “I feel like I've been abandoned by everyone, and I can't even talk to my family.”
 
-Paraphrasing
+>Helper: “It makes sense feeling isolated in a situation like this, and being able to express yourself is important.
 
-Texter: “I’m so alone and the fight with my boyfriend is just really pissing me off and now I can’t even talk to him about what I’m going through.”
-Crisis Counselor: “So you already felt isolated, and today’s fight just added fuel to the fire?”
-Plus: Great use of a strong feeling word that captures the essence of what the texter is going through. This helps the texter feel understood and heard.
-DataBite_Transparent Our most effective Crisis Counselors are 3x more likely to use clarifying questions (e.g., “am I understanding you correctly?”). These questions tell the texter that you understand them while avoiding the introduction of any opinion or advice. These Crisis Counselors are also 30% more likely to check for suicidal thoughts early, in response to high risk texters and 2.5x as likely to thank the texter for contacting Crisis Text Line.
+_The most effective helpers use clarifying questions to make sure they are understanding the client properly. These help let the client know that you care, and you're paying attention, without pushing them. These helperes are also much more likely to catch subtle signs of additional problems the client may have._
 
+### Validation
+A person's thoughts, feeling, and personal experience need to be validated. Most people feel very much alone in their situation, and are apt to think nobody cares. To compound this, our society generally doesn't appear to care - that's what you're here to change, right? We want to recognize, normalize, and accept the client. This helps to build rapport, and can make it much easier for the client to open up to you. You can help them to understand that their emotions are a natural response. A client is likely to minimize their own feelings, if they aren't feeling that they are valid. When a person says something that subtly alerts you to how they are feeling - that's the time to validate them.
 
+An example, 
+>Client: "I'm stupid for even trying at this point."
 
-Validation
+>Helper: "From what you've told me, feeling overwhelmed just makes sense. Do you think we can work out some steps to clear this up for you?"
 
-To validate is to recognize, normalize, and accept a texter’s thoughts, feelings, and experiences. People often feel alone in their situation and think no one else cares; validation can build rapport and encourage a texter to open up further. Validation lets texters know that their feelings are normal and natural. You can use it when texters (a) have just described a difficult emotion or (b) try to minimize their feelings.
-Some examples of validating messages are: “It’s normal to be frustrated when you don’t feel heard by your parents,” or “From what you’re saying, it’s understandable you don’t feel comfortable opening up to your parents.”
-Texter: “It’s stupid for me to feel this way”
-Crisis Counselor: “It’s normal to be frustrated with your parents when they don’t listen to you.”
-Crisis Counselor: “From what you’ve been saying about the fight, it’s understandable that you’re feeling overwhelmed and upset.”
-That being said, be conscious of your timing when validating. For example: a texter reveals a sexual assault, and somehow feels at fault. Saying “It’s understandable to feel that way” might suggest that you agree with this conclusion. A better validating message would be to say “Sometimes people feel that way after an assault, but please know it was absolutely not your fault. No one deserves to be assaulted.”
-Use Validations To:
+Be mindful of when and how you validate a client. Again, this isn't something an AI can accomplish properly. Let's say that the client feels at fault for something they aren't. A common example, if the client feels comfortable enough to open up to you about a sexual assault and feels guilt associated with it, saying that feeling that way is understandable can actually suggest that you agree. It might be better to tell them something like "People do often feel that way after an assault, but it was not your fault. Nobody deserves that". You can validate the person and their feelings, without normalizing something detrimental. Always bear in mind, these are people. _Handle with care._
 
-Recognize and normalize the texter’s feelings.
-Accept the texter’s emotions and crisis without judgement.
-Thoughtfully show the texter that you hear and support them.
-Give the texter space and permission to feel the way that they feel.
-Avoid Validations That:
+Used properly, validation can normalize a client's feelings, allow expression without judgment, show the client that you genuinely care, and give them the permission they may feel they need to accept their own thoughts and feelings. We want to avoid unintended consequences, such as implying that they are at fault, or deserve their situation; implying that their feelings of hopelessness or other negative emotions are justified; or giving permission for destructive behavior. This can be much harder than it sounds, and can take practice to master.
 
-Imply that the texter is at fault.
-Imply that the texter deserves to be going through their crisis.
-Imply that their feelings of hopelessness or worthlessness are justified.
-Imply that they should continue with mentally or physically harmful behavior.
-Give it a try! Respond to the following texts using the opening statements provided.
+### Tentafiers
+It's not likely a word you've heard before, and definitely not something you're suggested to use most of the time! But here, it's a vital skill. Tentafiers are used to preface something like a label, in order to deliberately make it tentative. For example, instead of "You're feeling frustrated." you might say "It seems like you're frustrated". Just that small change alters the impression from one of trying to tell the person how they feel, to one of reaching for understanding.
 
-Texter: “My gf is 5 months pregnant and I wasn’t ready for this. I feel guilty because part of me wishes she had gotten an abortion…”
-Crisis Counselor: “It’s understandable to feel…”
-Texter: “I was like OMG. how could my teacher read my poem out loud for everyone? I was kinda flattered he thought it was good, but mortified that everyone now knows my parents are divorcing.”
-Crisis Counselor: “It’s normal to be…”
-DataBite_Transparent Our data shows that the 5 most effective validations contain the words “reasonable,” “normal,” “makes sense,” “understandable,” and, “I see.”
+_Data shows: “You seem,” “So you…”, and “It sounds like…” are the most effective tentafiers. Try listening to what the client says when they're being tentative, and adapt that to be on the same communication page.
 
+### Open and Closed-Ended Questions
+Asking an open-ended question means positing something non-binary. In this way, we let the client expand on whatever thoughts and feelings they need to while searching for an answer more complex than _yes or no_. For you, this allows exploration without having to resort to a professional interview. This needs to be personal. We guide the conversation in an attempt to gather information we need to help the client; but we need them to tell their story to get that.
 
+A closed-ended question can be answered with a simple _yes or no_. They're almost never a good idea, because they box the client into a set of options for what they feel or think. This can prevent you from getting the information you need to go further with helping.
 
-Tentafiers
+_Data shows: the most successful helpers ask fewer, more open questions. Specifically, “How” questions are associated with effective conversations. “How” falls next, followed by "When," and "What". Because asking "why" has so many negative possible implications, it's strongly discouraged altogether.
 
-Tentafiers preface the labeling of a feeling to make it tentative. For example, “It seems as if you’re feeling upset,” or “I wonder if you’re feeling frustrated?” Using tentafiers allows you to get clarity on how the texter is feeling while still helping them feel in control. They help you avoid making assumptions. You can also use them to encourage the texter to share more about a particular feeling without asking a question. For instance, “It sounds like you are feeling worried about how your parents will react.”
-Less Effective Example
+### Strength Identifiers
+Often, a person needs to be reminded that they have inherent positive qualities. They need to be reminded that they're strong enough to fight their way through their struggle. Giving them a strength identifier accomplishes this in an empowering, non-patronizing manner. It can feel a little weird to do this - especially if you aren't feeling terribly confident yourself - but don't worry. It'll get much more natural with time, and even leak into your normal conversations.
 
-Texter: “My bff attempted suicide 3 months ago and things have been really touchy ever since. I don’t know what to say to her and am afraid I’ll make things worse, so I haven’t really visited.”
-Crisis Counselor: “You’re worried because she is too fragile after what happened.”
-Wish: Telling the texter how they feel robs them of power in the conversation, and can make you seem like an authority figure that isn’t really listening.
-Effective Example
+A person in any sort of crisis will tend to place their attention on negatives, which tends to spiral downward. What can you do about that? Remind them of some of the positives, of course! This takes paying close attention and empathizing with the person enough to understand just what their strengths are. A good strength identifier for somebody who has reached out to you for help is to let them know it's brave to reach out. It can be difficult to get through to a person this way, but it's well worth it. For example, if a person is feeling stupid, telling them that they are smart won't help. They aren't going to believe you. However, if you were to say something like "You're trying to get help now, that seems pretty smart to me!" and leave it alone. This can be the time to express a personal feeling yourself, like "I appreciate your bravery.. it's hard to share something like that", or "I'm inspired by how much work you've put into getting this far". 
 
-Texter: “My bff attempted suicide 3 months ago and things have been really touchy ever since. I don’t know what to say to her and am afraid I’ll make things worse, so I haven’t really visited.”
-Crisis Counselor: “I get the feeling that you’re worried that she’s too fragile to talk after what happened.”
-Plus: The tentafier “I get the feeling that” allows CCs to get clarity about what the texter is feeling, while still helping the texter feel in control.
-DataBite_Transparent Our data show that “You seem…,” “You think…,” “So you…”, and “It sounds like…” are the most effective tentafiers.
-
-
-
-Open and Closed-Ended Questions
-
-Open-ended questions can’t be answered with a simple yes or no. They allow texters to expand on their thoughts and feelings. And they allow you to explore the situation without resorting to interviewing. They should be used to dig a little deeper. As we guide the conversation and gather information, the texters tell their stories.
-Closed-ended questions only require a yes or no. They’re not effective because they inhibit the texter from expanding on what they are feeling and thinking. They keep Crisis Counselors from gathering the information they need to best explore the crisis. Additionally, our data tells us that longer, meaty messages are associated with the most effective conversations. This is why closed-ended questions aren’t our faves.
-DataBite_Transparent Longer messages are associated with the most effective conversations. Messages from our most effective Crisis Counselors are 34% longer on average. The average length for our most effective Crisis Counselors is 99 characters. All messages are limited to 160 characters**
-
-It’s also best to avoid “why” questions because they can seem judgmental and accusatory over text; texters aren’t able to hear the intended tone. Have a look at the three different responses to the same text below, and take a second to reflect on the pluses and wishes of each one!*
-Close-Ended Question
-
-Texter: “My stepsister is the bane of my existence. I just can’t take it anymore.”
-Crisis Counselor: “Did she do something?”
-Wish: This closed-ended question could result in a single-word answer (yes or no) and doesn’t leave room for the texter to expand about their situation. It might also make the texter feel like they are being interviewed or interrogated.
-Why Question
-
-Texter: “My stepsister is the bane of my existence. I just can’t take it anymore.”
-Crisis Counselor: “Why does your stepsister make you so upset?”
-Wish: Why questions can sound accusatory to the texter, and often come off as more judgmental over text than they might in person.
-Open-Ended Question
-
-Texter: “My stepsister is the bane of my existence. I just can’t take it anymore.”
-Crisis Counselor: “It sounds like your sister is really upsetting you. Can you tell me more about how she’s been horrible to you?”
-Plus: Asking for more info allows the texter to expand upon their feelings, and the empathetic statement gives more meat to the message.
-DataBite_Transparent How should you ask a question? That’s right! “How” questions are associated with the most effective conversations. “How” is followed in quality by “When,” then “What”. Asking questions using the word “Why” results in the lowest quality conversations!
-
-
-
-Strength IDs
-
-Strength Identifications (IDs) show the texter that they have inherent positive qualities, and that they have the strength to fight through their struggles. Giving Strength IDs is EMPOWERING!
-DataBite_Transparent Our data shows that brave, smart, and proud are the 3 words that show up in our most successful convos. They’re all Strength IDs, which are one of our most powerful Good Contact Techniques.
-
-Brave Smart Proud
-
-Strength IDs point out the positives in a texter’s actions. People in crisis often focus on negatives, so it’s great to remind them of the positive things they’re doing! For instance, “It’s brave to reach out for support.” Strength IDs like this can guide texters toward being more receptive to help, while reflecting their inherent strengths back to them. This can also alleviate feelings of helplessness and hopelessness.
-Additionally, Strength IDs empower the texter to work toward collaborative problem-solving and action-planning. That being said, it’s not effective to praise a texter with a Strength ID that you can’t tie to a visible action. For instance, you wouldn’t say, “You’re not stupid, you’re smart!” Texters who think they are stupid will not believe you. You could instead say, “It seems like reaching out for help was a smart and insightful thing to do tonight.”
-Less Effective Example
-
-Texter: “I’m terrified right now. My uncle was diagnosed with cancer and it’s not looking good. I heard they don’t have enough money for the hospital bills and I wish I could help but I’m in school. I suck.”
-Crisis Counselor: “You don’t suck. You’re awesome. I can tell you are a really good person.”
-Wish: While you’re telling the texter something positive about themselves, you’re also making a vague statement that can make your praise seem empty via text.
-Effective Example
-
-Texter: “I’m terrified right now. My uncle was diagnosed with cancer and it’s not looking good. I heard they don’t have enough money for the hospital bills and I wish I could help but I’m in school. I suck.”
-Crisis Counselor: “I’m honestly impressed with your strength. You care greatly about your uncle and are carrying the weight of his pain. You seem like a thoughtful person.”
-Plus: This Strength ID relate directly to the texter’s problem, it points out good qualities that are backed up by the texter’s own experiences and feelings.
-
-
-Our very own Crisis Counselors shared their favorite Strength IDs with us so that we could put this table together, just for you!
-
-Strength ID	Visible Action
-It takes real courage…	to text in when you’re feeling XYZ.
-It takes real strength…	To make your wellbeing a priority.
-I can tell that you have great insight….	because you’re able to identify that this is a problem and you’re willing to work on it.
-Its inspiring…	how much work you’re putting into getting help for yourself.
-It shows true compassion…	to reach out, out of concern for your friend.
-Wow, you have true perseverance…	for dealing with XYZ for so long.
-I’m impressed…	with how well you know yourself and what you need at this tough time.
-I can tell how committed you are…	to XYZ; this seems important to you.
-I appreciate your bravery….	I know it’s not easy to share these things.
-You’re a rockstar…	because against all odds, you keep on trying.
+_Data shows: "brave," "smart," and "proud" are the three most successful strength identifiers.
 
 
 Silence
