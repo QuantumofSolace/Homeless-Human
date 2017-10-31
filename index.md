@@ -9,7 +9,7 @@
 _For emergency dial 911, or from cell phone 112_
 
 _Crisis Text Line - Text HOME to 741741_
-## [CASE MANAGEMENT](case-management)  
+## [CASE MANAGEMENT](wiki/case-management)  
 - - -
 ## [Offenders Employment Resources](offender-employment)
 - - -
