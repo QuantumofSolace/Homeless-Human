@@ -83,22 +83,22 @@ Impactful feeling words are useful. The other side of that skill is avoiding min
 - - -
 
 #### When To Use What ####
-[Reflection and Paraphrasing](#)
+[Reflection and Paraphrasing](#reflection--paraphrasing)
 >Shows the client that you're actively listening and trying to put yourself into their shoes. You want to be certain that you understand, without directly asking. Reflecting is a great way to do that.
 
-[Validation]()
+[Validation](#validation)
 >Lets the person see that their feelings are understood, and normal, and natural. It reassures them that there isn't something wrong with them, and that it's okay to feel. Sometimes, a person will try to minimize their own feelings. This is where you need to use good validation skills.
 
-[Tentafiers]()
+[Tentafiers](#tentafiers)
 >Enable you to avoid assumptions about what the client is feeling, or to guide them toward sharing more without asking them another question.
 
-[Empathetic Response]()
+[Empathetic Response](#empathetic-response)
 >Shows a client that you're present and paying attention. It shows that you honestly and sincerely care about what they're going through much more effectively than sympathy (ie, "I'm sorry"). If this one doesn't come naturally to you, it's not easy at all to learn. It'll take a lot of work.
 
-[Strength Identifiers]()
+[Strength Identifiers](#strength-identifiers)
 >Remind the person that they have positive qualities, and have the strength to make it through this hard time and their struggles. It can help to guide a person toward being more open and receptive to help, and feel more empowered to collaborate in problem solving and planning. It only takes a little sentence to make a huge difference.
 
-[Open-Ended Questions]()
+[Open-Ended Questions](#open-ended-questions)
 >Give a wide space for the client to elaborate and explore what they're feeling without turning it into an interview. You can learn a lot just by probing a little.
 
 - - -
