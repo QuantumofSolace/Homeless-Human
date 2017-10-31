@@ -7,9 +7,6 @@ It can be difficult to directly approach a person who seems in need of help. Eve
 ### Stage One: Build Rapport
 Establishing a safe, trusting environment can be a challenge right off the bat. Approach the person with a confident, purposeful walk, with eye contact. Smile, and ask them directly if you can help them. If the person is clearly homeless, you may want to start with "Do you have somewhere to stay?" or a similar question. Simply starting with "How are you?" can make a difference all on its own.
 
-#### Good Contact Technique
-Using good contact techniques is essential to building a working relationship with who we'll refer to as a client. Open-ended questions, emotional validations, and displays of empathy are all vital.
-
 ### Stage Two: Exploration
 Before we can help the client, we first need to discover what exactly it is that we're helping them with. By using conversational techniques, we can begin to understand what caused the situation to get to the point it's at. This is the stage where we can find out if an immediate soloution is needed, or if a more long-term life change is needed. Is this the end of a rope, or is this a sudden crisis? We can make no assumptions about the client, and need to let them tell us their own story.
 
