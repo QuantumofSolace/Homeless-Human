@@ -4,16 +4,16 @@
 ## General
 [Help When You Need It](http://helpwhenyouneedit.org/)
 
-## [Housing](Going-Home---Pierce-County)
-## [Crisis Help](crisis)
+## [Housing](wiki/housing)
+## [Crisis Help](wiki/crisis)
 _For emergency dial 911, or from cell phone 112_
 
 _Crisis Text Line - Text HOME to 741741_
 ## [CASE MANAGEMENT](wiki/case-management)  
 - - -
-## [Offenders Employment Resources](offender-employment)
+## [Offenders Employment Resources](wiki/offender-employment)
 - - -
-## [Human Services](human-services)
+## [Human Services](wiki/human-services)
  
 
 # Transitional Housing, Operating & Rent assistance 253-798-6912  
