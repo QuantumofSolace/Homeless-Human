@@ -1,7 +1,7 @@
 title: Homeless Human
 description: Services to get you back home.
-show_downloads: true
-comments: true
+show_downloads: false
+comments: false
 logo_url: https://github.com/QuantumofSolace/Homeless-Human/raw/master/assets/images/homelessness-causes.gif
 google_analytics:
 git_branch: gh-pages
@@ -9,7 +9,7 @@ theme:
 wiki_folder: wiki
 use_github_wiki: true
 use_prose_io: false
-custom_sidebar: true
+custom_sidebar: false
 gems:
   - jekyll-sitemap
   - jekyll-mentions
