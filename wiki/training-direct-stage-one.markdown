@@ -96,7 +96,13 @@ Impactful feeling words are useful. The other side of that skill is avoiding min
 >Shows a client that you're present and paying attention. It shows that you honestly and sincerely care about what they're going through much more effectively than sympathy (ie, "I'm sorry"). If this one doesn't come naturally to you, it's not easy at all to learn. It'll take a lot of work.
 
 [Strength Identifiers]()
-Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
+>Remind the person that they have positive qualities, and have the strength to make it through this hard time and their struggles. It can help to guide a person toward being more open and receptive to help, and feel more empowered to collaborate in problem solving and planning. It only takes a little sentence to make a huge difference.
 
 [Open-Ended Questions]()
-Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
+>Give a wide space for the client to elaborate and explore what they're feeling without turning it into an interview. You can learn a lot just by probing a little.
+
+- - -
+
+#### Unintended Consequences ####
+We feel it's important that you know you may experience life changes by going through with building these skills. Friends and family may find you easier and more pleasant to share feelings and thoughts with. You also may find yourself feeling more confident socially, and better overall emotionally. This isn't an easy job to take up. It's a worthwhile one.
+
