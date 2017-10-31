@@ -1,5 +1,5 @@
 # Direct Aid Model #
-## Stage One - Exploration ##
+## Stage Two - Exploration ##
 
 At this point, you should be able to get the client to talk openly and feel comfortable with you, and identify their emotional state. Now, we're ready to explore what's going on with them. Remember, you're a human being and that's exactly what we want here. It's natural to panic when more serious problems come up. The focus needs to be brought back to the client and not your panic. When somebody tells you about what got them to what they likely see as the lowest point of their life, it can be outright terrifying. There isn't a way to prepare yourself for exactly what will be shared with you.
 
