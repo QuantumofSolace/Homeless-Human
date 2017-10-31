@@ -78,25 +78,20 @@ Try writing a few stories, and with each edition make the feeling words more int
 - - -
 
 #### Minimizers and Maximizers ####
+Impactful feeling words are useful. The other side of that skill is avoiding minimizers ("a little", "kind of", "sort of") and maximizers ("really", "very", "especially"). The reason is that these words detract from the intensity of a response. That makes sense during normal daily conversation, but this person is going through a different kind of world altogether. You don't want to be making light of a deep feeling they're having, and prevent them from feeling valid. You also don't want to increase intensity by adding a maximizer. A good rule of thumb is that if you have to add an adjective, you haven't hit the right word for what you mean. Identifying feelings accurately is important for formulating an effective solution later on.
 
-While using strong feeling words is important, it’s also important to avoid minimizers (such as a little angry, kind of mad) and maximizers (such as really angry, very mad.) These words tend to detract in two ways:
-Minimizers detract from the intensity of a response. Even though we use these often in everyday speech, they have the effect of minimizing what texters are going through, and stand in the way of them feeling validated and heard.
-Maximizers encourage the imprecise naming of feelings—they detract from the strength of feeling words and do little to help you identify and understand the experience being described.
-Less Effective Example
+- - -
 
-Texter: “I think I’ve been depressed for a long time. I’m fat and I hate being this way, but I can’t get skinny. No one is ever going to like me”
-Crisis Counselor: “I’m hearing that your weight is kind of bothering you.”
-Wish: This CC response is a less effective example because the use of “kind of” minimizes the strong feeling of depression that the texter has expressed. It also detracts from the power of the CC’s validation, making the texter feel less heard and less supported in their moment of pain.
-Effective Example
-
-Texter: “I think I’ve been depressed for a long time. I’m fat and I hate being this way, but I can’t get skinny. No one is ever going to like me”
-Crisis Counselor: “I’m hearing that your feelings about your weight are painful and upsetting.”
-
-
-Technique	Effect/Benefit	When to Use It	Example
-Reflection and Paraphrasing	Shows that you are listening to the texter and doing your best to put yourself in their shoes.	When you want to doube-check that you’re understanding the texter correctly, without having to ask.	“So you already felt isolated, and today’s incident just added fuel to the fire?”
-Validation	Lets the texter know that their feelings are normal and natural, and that there’s nothing wrong with them for feeling that way.	When the texter has just described a difficult emotion, or tries to minimize their own feelings. (For example, “It’s stupid for me to feel that way.”)	“From what you’ve been saying about the fight, it’s understandable that you’re feeling overwhelmed and upset.”
-Tentafier	Allows you to avoid making assumptions about what the texter is feeling.	To get the texter to share more about a particular feeling without asking a question.	“It sounds like you are feeling worred about how your parents will react.”
-Empathetic Response	Shows (rather than tells!) the texter that you’re there for them.	When you want to show the texter that you care about what they’re going through (instead of using a sympathetic response like “I’m sorry.”)	“You’re saying you’re feeling abandoned because you haven’t heard back from your friend. It can be devastating to feel that way.”
-Strength ID	Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
-Open-Ended Question	Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
+#### When To Use What ####
+[Reflection and Paraphrasing](#)
+>Shows the client that you're actively listening and trying to put yourself into their shoes. You want to be certain that you understand, without directly asking. Reflecting is a great way to do that.
+[Validation]()
+>Lets the person see that their feelings are understood, and normal, and natural. It reassures them that there isn't something wrong with them, and that it's okay to feel. Sometimes, a person will try to minimize their own feelings. This is where you need to use good validation skills.
+[Tentafiers]()
+>Enable you to avoid assumptions about what the client is feeling, or to guide them toward sharing more without asking them another question.
+[Empathetic Response]()
+>Shows a client that you're present and paying attention. It shows that you honestly and sincerely care about what they're going through much more effectively than sympathy (ie, "I'm sorry"). If this one doesn't come naturally to you, it's not easy at all to learn. It'll take a lot of work.
+[Strength Identifiers]()
+Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
+[Open-Ended Questions]()
+Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
