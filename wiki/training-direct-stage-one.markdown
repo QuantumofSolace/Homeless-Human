@@ -1,21 +1,22 @@
-# Direct Aid Model
-## Stage One - Build Rapport
+# Direct Aid Model #
+## Stage One - Build Rapport ##
 
-#### Good Contact Techniques
+### Good Contact Techniques ###
 By employing skills such as active listening, empathy, unconditional positive regard, developing trust, and being nonjudgemental, you'll learn how to gather the right information. You'll understand their situation, and how they think and feel - this isn't a comfortable process to go through.
 
 Your first impression is going to be important. The way you approach and greet the person matters a lot, and is something that needs thought and deliberate action. For example "Hi, I'm Casey. Do you have somewhere to live right now?", or "Excuse me, my name is Casey, can I help you out?". It needs to be made clear immediately that your intent is to offer aid, competently. Your goal is to create a connection with the person. There are many strategies that can help with this; an odd example is making sure to ask their name around five or six sentences in, if they haven't already given it. Restating their name at that point if they've already given it is also effective.
 
+- - -
 
-### Reflection & Paraphrasing
+#### Reflection & Paraphrasing ####
 When we say "active listening", we mean something that's very likely not what you may have learned before. _You can't skip this part_. Reflection and paraphrasing are what we call it when you've fully listened to your client, and synthesize what they have expressed back to them in a manner that makes them know they are being heard. When doing this, it's _vital_ that you avoid parroting what the client has said to you word-for-word. Any AI can accomplish that, and you need to be very human for this to work. We want to process what the person is saying, and reflect the essential meaning of what they are telling you.
 
-#### Parroting:
+_Parroting:_
 >Client: “I feel like I've been abandoned by everyone, and I can't even talk to my family.”
 
 >Helper: “I hear you’re feeling abandoned, and can't talk to anyone?"
 
-#### Paraphrasing:
+_Paraphrasing:_
 
 >Client: “I feel like I've been abandoned by everyone, and I can't even talk to my family.”
 
@@ -23,7 +24,9 @@ When we say "active listening", we mean something that's very likely not what yo
 
 _The most effective helpers use clarifying questions to make sure they are understanding the client properly. These help let the client know that you care, and you're paying attention, without pushing them. These helperes are also much more likely to catch subtle signs of additional problems the client may have._
 
-### Validation
+- - -
+
+#### Validation ####
 A person's thoughts, feeling, and personal experience need to be validated. Most people feel very much alone in their situation, and are apt to think nobody cares. To compound this, our society generally doesn't appear to care - that's what you're here to change, right? We want to recognize, normalize, and accept the client. This helps to build rapport, and can make it much easier for the client to open up to you. You can help them to understand that their emotions are a natural response. A client is likely to minimize their own feelings, if they aren't feeling that they are valid. When a person says something that subtly alerts you to how they are feeling - that's the time to validate them.
 
 An example, 
@@ -35,27 +38,37 @@ Be mindful of when and how you validate a client. Again, this isn't something an
 
 Used properly, validation can normalize a client's feelings, allow expression without judgment, show the client that you genuinely care, and give them the permission they may feel they need to accept their own thoughts and feelings. We want to avoid unintended consequences, such as implying that they are at fault, or deserve their situation; implying that their feelings of hopelessness or other negative emotions are justified; or giving permission for destructive behavior. This can be much harder than it sounds, and can take practice to master.
 
-### Tentafiers
+- - -
+
+#### Tentafiers ####
 It's not likely a word you've heard before, and definitely not something you're suggested to use most of the time! But here, it's a vital skill. Tentafiers are used to preface something like a label, in order to deliberately make it tentative. For example, instead of "You're feeling frustrated." you might say "It seems like you're frustrated". Just that small change alters the impression from one of trying to tell the person how they feel, to one of reaching for understanding.
 
-_Data shows: “You seem,” “So you…”, and “It sounds like…” are the most effective tentafiers. Try listening to what the client says when they're being tentative, and adapt that to be on the same communication page.
+_Data shows: “You seem,” “So you…”, and “It sounds like…” are the most effective tentafiers. Try listening to what the client says when they're being tentative, and adapt that to be on the same communication page._
 
-### Open and Closed-Ended Questions
+- - -
+
+#### Open and Closed-Ended Questions ####
 Asking an open-ended question means positing something non-binary. In this way, we let the client expand on whatever thoughts and feelings they need to while searching for an answer more complex than _yes or no_. For you, this allows exploration without having to resort to a professional interview. This needs to be personal. We guide the conversation in an attempt to gather information we need to help the client; but we need them to tell their story to get that.
 
 A closed-ended question can be answered with a simple _yes or no_. They're almost never a good idea, because they box the client into a set of options for what they feel or think. This can prevent you from getting the information you need to go further with helping.
 
-_Data shows: the most successful helpers ask fewer, more open questions. Specifically, “How” questions are associated with effective conversations. “How” falls next, followed by "When," and "What". Because asking "why" has so many negative possible implications, it's strongly discouraged altogether.
+_Data shows: the most successful helpers ask fewer, more open questions. Specifically, “How” questions are associated with effective conversations. “How” falls next, followed by "When," and "What". Because asking "why" has so many negative possible implications, it's strongly discouraged altogether._
+
+- - -
 
 ### Strength Identifiers
 Often, a person needs to be reminded that they have inherent positive qualities. They need to be reminded that they're strong enough to fight their way through their struggle. Giving them a strength identifier accomplishes this in an empowering, non-patronizing manner. It can feel a little weird to do this - especially if you aren't feeling terribly confident yourself - but don't worry. It'll get much more natural with time, and even leak into your normal conversations.
 
 A person in any sort of crisis will tend to place their attention on negatives, which tends to spiral downward. What can you do about that? Remind them of some of the positives, of course! This takes paying close attention and empathizing with the person enough to understand just what their strengths are. A good strength identifier for somebody who has reached out to you for help is to let them know it's brave to reach out. It can be difficult to get through to a person this way, but it's well worth it. For example, if a person is feeling stupid, telling them that they are smart won't help. They aren't going to believe you. However, if you were to say something like "You're trying to get help now, that seems pretty smart to me!" and leave it alone. This can be the time to express a personal feeling yourself, like "I appreciate your bravery.. it's hard to share something like that", or "I'm inspired by how much work you've put into getting this far". 
 
-_Data shows: "brave," "smart," and "proud" are the three most successful strength identifiers.
+_Data shows: "brave," "smart," and "proud" are the three most successful strength identifiers._
+
+- - -
 
 ### Silence...
 Sweet, powerful, uncomfortable silence. Sometimes, the best thing you can say is nothing. It might not immediately seem like the best way to build rapport, but we swear the science backs this up. Pausing in a conversation allows the client and helper to both process. It allows an opening for the client to elaborate if they need to. A natural pause can show that you're paying full attention, and not planning your next reply. There's no need to be incredibly awkward, but sometimes waiting a bit before you speak can make all the difference.
+
+- - -
 
 ### Vocabulary and Vernacular
 
@@ -93,7 +106,7 @@ Strength ID	Shows the texter that they have inherent positive qulaities, and hav
 Open-Ended Question	Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
 
 
-Minimizers and Maximizers:
+#### Minimizers and Maximizers ####
 
 While using strong feeling words is important, it’s also important to avoid minimizers (such as a little angry, kind of mad) and maximizers (such as really angry, very mad.) These words tend to detract in two ways:
 Minimizers detract from the intensity of a response. Even though we use these often in everyday speech, they have the effect of minimizing what texters are going through, and stand in the way of them feeling validated and heard.
@@ -107,32 +120,3 @@ Effective Example
 
 Texter: “I think I’ve been depressed for a long time. I’m fat and I hate being this way, but I can’t get skinny. No one is ever going to like me”
 Crisis Counselor: “I’m hearing that your feelings about your weight are painful and upsetting.”
-Plus: This CC response is an effective example because it successfully pairs a tentifier with reflection, paraphrasing, and a strong feeling word. It makes the texter feel heard and shows them that you are truly sharing in the burden of their pain.
-Now, you give it a try! Try responding to the following messages using a strong feeling word, avoiding minimizers and maximizers in your response:
-
-Texter: “Honestly I feel like the main problem is my parents. They never listen to me.”
-Crisis Counselor:
-
-Texter: “I thought being a mom would be the best thing that ever happened to me, but now I’m alone all day with my baby and I feel stuck.”
-Crisis Counselor:
-
-Texter: “I haven’t cut in months and now I feel better. I’m bummed though because I met this girl who asked me to go swimming next week. I’m worried about her seeing my scars.”
-Crisis Counselor:
-
-Texter: “My anxiety has been so bad lately and I don’t know why or what to do. My mom’s new bf is now moving in and I hate him!”
-Crisis Counselor:
-
-
-
-Some Technical Stuff
-
-Grammar & Spelling: Proofreading is important. We strive to maintain a professional (not robotic!) tone, and typos or grammatical errors risk hurting that tone. Always strive for clear, grammatically correct messages. In the event a Supervisor needs to be involved or if you transfer a conversation, other Crisis Counselors should be able to read through and understand the conversation easily.
-Exclamation Points: An exclamation point can seem sarcastic or ambiguous in tone over text, and can damage the professional tone you have established. We ask that you avoid using them.
-Textspeak* (“how r u feeling?”): We don’t want to use textspeak (r, u, lol, thx) because it’s too colloquial for a Crisis Counselor. Professionalism is important during conversations with texters because they need to trust that we are reliable and competent.
-Informal Language: While you don’t want to use text-speak or speak unprofessionally, Our data shows that conversations are more effective when you use more informal language. Here are a few examples:
-“yeah” rather than “yes”
-“hi” rather than “hello”
-“don’t” rather than “do not”
-“won’t “ rather than “will not”
-“it’s” rather than “it is”
-Sometimes we make spelling or grammar errors. Proofreading is important. If you make an error, don’t panic! The texter probably won’t notice a small error. If they do notice, the error will remind the texter that you’re human! In the event that you make an error that leads to some confusion, it’s totally okay to apologize and clarify what you meant.
