@@ -54,13 +54,10 @@ A person in any sort of crisis will tend to place their attention on negatives, 
 
 _Data shows: "brave," "smart," and "proud" are the three most successful strength identifiers.
 
+### Silence...
+Sweet, powerful, uncomfortable silence. Sometimes, the best thing you can say is nothing. It might not immediately seem like the best way to build rapport, but we swear the science backs this up. Pausing in a conversation allows the client and helper to both process. It allows an opening for the client to elaborate if they need to. A natural pause can show that you're paying full attention, and not planning your next reply. There's no need to be incredibly awkward, but sometimes waiting a bit before you speak can make all the difference.
 
-Silence
-
-Oh, silence. It can be so uncomfortable, yet so powerful! A pause or a break in communicating may not feel like a Good Contact Technique—but it actually is! Text is made for this; It’s normal. The use of silence (a brief pause) is an underutilized technique that allows the texter and the Crisis Counselor to step back and to process. It allows space for the texter to elaborate if needed. Used consistently in a balanced manner, a silent pause demonstrates that you are paying attention and have respect for the person with whom you are communicating. We are not suggesting that you pause for too long. We just want to remind you that rapid-fire messaging doesn’t always leave enough room for texters to explore their feelings and empower themselves. Text by nature is asynchronous. If you feel the texter might elaborate, waiting for 30 seconds or one minute to giving him or her a chance to respond can sometimes be more compassionate than asking for more information.
-
-
-Feeling Words & Vocabulary
+### Vocabulary and Vernacular
 
 Strong feeling words help our texters feel heard and understood. Finding the appropriate vocabulary for paraphrasing a texter’s crisis helps us (a) capture the uniqueness of the crisis (b) validate the texter’s feelings, and (c) better understand what the texter is going through.
 The trouble is, most strong feeling words don’t seem natural to us. That’s okay! Part of your training here at Crisis Text Line will help you expand your feeling vocabulary. The more feeling words we have in our back pocket, the more specific we can be in understanding a texter’s feelings and thoughts.
