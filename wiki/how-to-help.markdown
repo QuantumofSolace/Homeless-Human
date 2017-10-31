@@ -6,7 +6,7 @@ It can be difficult to directly approach a person who seems in need of help. Eve
 
 ## Direct Aid Model
 
-### [Stage One: Build Rapport](training-direct-stage-one)
+### [Stage One: Build Rapport](./training-direct-stage-one)
 Establishing a safe, trusting environment can be a challenge right off the bat. Approach the person with a confident, purposeful walk, with eye contact. Smile, and ask them directly if you can help them. If the person is clearly homeless, you may want to start with "Do you have somewhere to stay?" or a similar question. Simply starting with "How are you?" can make a difference all on its own.
 
 - - -
