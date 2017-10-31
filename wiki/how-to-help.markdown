@@ -35,10 +35,11 @@ We're part of a highly diverse population. As a helper (a person doing outreach)
 
 To dispell some common thoughts that make this more difficult:
 
-
-Myth  |  Fact
------ | -----
-Everyone is equal, so we should ignore race, ethnicity, and culture. | Everyone does deserve to be treated equally and with respect. However, we are in no way all the same! Our different cultures and life experiences define our differences, and those differences make us human.
+---
+Myth: Everyone is equal, so we should ignore race, ethnicity, and culture. 
+---
+Fact: Everyone does deserve to be treated equally and with respect. However, we are in no way all the same! Our different cultures and life experiences define our differences, and those differences make us human.
+---
 People who belong to a particular racial, ethnic or cultural group are similar. | Everyone is unique. Within any given culture, there are differences just as within your own.
 Discrimination isn't a real problem anymore, and people who say it is are playing the "race card". | No matter how _you_ may feel, it's important to validate the client's feelings in order to help them. Using the phrase "playing the race card" in particular completely invalidates them on a number of levels. It's a responsibility to empathise fully and place yourself into their shoes - not your own.
 Targets for slurs should just get over it. It's just words, and people are jerks. | We have no right or reason to judge how the client feels about anything. We use the best empathetic skills we have to show (not tell) our client that we do actually understand their feelings. This doesn't require sympathy, and you don't need to agree with the person's feelings. But you do need to understand and validate them.
