@@ -1,8 +1,10 @@
+# Direct Aid Model #
+## Stage One - Exploration ##
+
 At this point, you should be able to get the client to talk openly and feel comfortable with you, and identify their emotional state. Now, we're ready to explore what's going on with them. Remember, you're a human being and that's exactly what we want here. It's natural to panic when more serious problems come up. The focus needs to be brought back to the client and not your panic. When somebody tells you about what got them to what they likely see as the lowest point of their life, it can be outright terrifying. There isn't a way to prepare yourself for exactly what will be shared with you.
 
 If it was easy, you wouldn't be reading this. You've learned how to deliberately, actively listen and use silence when you need to. When you find yourself thinking of your next sentence, and theirs has not yet ended, you aren't really listening. Data shows that in difficult situations, a person wants to feel less alone, less overwhelmed, and more hopeful. All of these can be provided easily with genuine empathy and listening. So long as you are genuinely concerned for the person, you're going to show it. You've got this.
 
-#### Exploratory Conversation ####
 Now, we shift the conversation from understanding their overall emotional landscape to pinpointing exactly what happened to get to this point. This isn't entirely for you, but rather it allows the client to more fully comprehend their own feelings, and gain insight into what's going on in their own mind. This can do a lot to reduce feelings of being overwhelmed, and make following through with getting help much easier.
 
 All of the [good contact techniques](training-direct-stage-one#good-contact-techniques) need to stay in effect throughout the exploration stage. The most important of the bunch for now is [open-ended questioning](training-direct-stage-one#open-ended-questions). The client should be steering this, and you're attempting to get on to the same page. While you are providing a sort of guidance, it needs to be extremely subtle and natural.
