@@ -1,3 +1,6 @@
+_For those who want to help_
+[How to Help](wiki/how-to-help)
+
 # Pierce County Resources
 **Dial 2-1-1 from any phone in Washington and you will be connected to a comprehensive information and referral service for housing and other needs. You can also visit [2-1-1 on the web](www.win211.org).** (Support for other states soon.)
 
