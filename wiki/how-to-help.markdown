@@ -13,9 +13,9 @@ Before we can help the client, we first need to discover what exactly it is that
 ### Stage Three: Goal Identification
 The third stage is to determine what the client wants to get out of the process. We try to empower the client to build up an image of a better future for themselves, without dictating what "better" means. They want an improvement, but what an improvement might look like is up to them. Sometimes, when depressed or feeling heavy anxiety, it can be surpisingly difficult for a person to imagine more than a few minutes ahead. This is probably the most challenging part of the process. We aren't trying to make the person feel dependent or helpless, but rather to help them identify their own strengths and play to those.
 
-- - -
-
 ### Stage Four: Problem Solving
+Now that we've figured out what a better future means to the client, we can start to work with them to develop a plan to get them into that life. We still want this to be mostly client-driven. You'll be armed with resources to give for almost every case you'll run into. Sometimes, this will involve identifying their current coping skills, which may not be helping them. We can start to look at alternative ways to cope, while paving a path to make that much easier for them to follow through with. Aside from creating a plan, this stage can also help the person to feel a sense of control over their future, and get them much more engaged in the process.
+
 
 - - -
 
