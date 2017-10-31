@@ -85,13 +85,18 @@ Impactful feeling words are useful. The other side of that skill is avoiding min
 #### When To Use What ####
 [Reflection and Paraphrasing](#)
 >Shows the client that you're actively listening and trying to put yourself into their shoes. You want to be certain that you understand, without directly asking. Reflecting is a great way to do that.
+
 [Validation]()
 >Lets the person see that their feelings are understood, and normal, and natural. It reassures them that there isn't something wrong with them, and that it's okay to feel. Sometimes, a person will try to minimize their own feelings. This is where you need to use good validation skills.
+
 [Tentafiers]()
 >Enable you to avoid assumptions about what the client is feeling, or to guide them toward sharing more without asking them another question.
+
 [Empathetic Response]()
 >Shows a client that you're present and paying attention. It shows that you honestly and sincerely care about what they're going through much more effectively than sympathy (ie, "I'm sorry"). If this one doesn't come naturally to you, it's not easy at all to learn. It'll take a lot of work.
+
 [Strength Identifiers]()
 Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
+
 [Open-Ended Questions]()
 Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
