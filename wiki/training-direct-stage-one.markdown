@@ -9,7 +9,7 @@ Your first impression is going to be important. The way you approach and greet t
 - - -
 
 #### Reflection & Paraphrasing ####
-When we say "active listening", we mean something that's very likely not what you may have learned before. _You can't skip this part_. Reflection and paraphrasing are what we call it when you've fully listened to your client, and synthesize what they have expressed back to them in a manner that makes them know they are being heard. When doing this, it's _vital_ that you avoid parroting what the client has said to you word-for-word. Any AI can accomplish that, and you need to be very human for this to work. We want to process what the person is saying, and reflect the essential meaning of what they are telling you.
+When we say "active listening", we mean something that's very likely not what you may have learned before. _You can't skip this part_. Reflection and paraphrasing are what we call it when you've fully listened to your client, and synthesize what they have expressed back to them in a manner that makes them know they are being heard. When doing this, it's _vital_ that you avoid parroting what the client has said to you word-for-word. Any AI can accomplish that, and you need to be very human for this to work. We want to process what the person is saying, and reflect the essential meaning of what they are telling you. This is part of the [Empathetic Response](training-direct-stage-one-empathetic-response) system.
 
 _Parroting:_
 >Client: “I feel like I've been abandoned by everyone, and I can't even talk to my family.”
