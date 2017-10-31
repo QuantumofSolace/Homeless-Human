@@ -9,17 +9,17 @@ Establishing a safe, trusting environment can be a challenge right off the bat. 
 
 #### Good Contact Technique
 Using good contact techniques is essential to building a working relationship with who we'll refer to as a client. Open-ended questions, emotional validations, and displays of empathy are all vital.
----
+
 ### Stage Two: Exploration
 Before we can help the client, we first need to discover what exactly it is that we're helping them with. By using conversational techniques, we can begin to understand what caused the situation to get to the point it's at. This is the stage where we can find out if an immediate soloution is needed, or if a more long-term life change is needed. Is this the end of a rope, or is this a sudden crisis? We can make no assumptions about the client, and need to let them tell us their own story.
----
+
 ### Stage Three: Goal Identification
 The third stage is to determine what the client wants to get out of the process. We try to empower the client to build up an image of a better future for themselves, without dictating what "better" means. They want an improvement, but what an improvement might look like is up to them. Sometimes, when depressed or feeling heavy anxiety, it can be surpisingly difficult for a person to imagine more than a few minutes ahead. This is probably the most challenging part of the process. We aren't trying to make the person feel dependent or helpless, but rather to help them identify their own strengths and play to those.
----
+
+- - -
+
 ### Stage Four: Problem Solving
----
+
+- - -
+
 ### Stage Five: Following Through
----
-### Stage Six: Checking In
----
-### Stage Seven: Ending the Relationship
