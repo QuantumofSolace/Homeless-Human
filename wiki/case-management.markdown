@@ -1,3 +1,9 @@
+---
+title: Case Management Resources
+tags: dshs school case management youth families
+categories: dshs school case management youth families
+---
+
 + ## [DSHS](http://www.dshs.wa.gov/) Community Services Offices (CSO) 1-877-501-2233  
     + Lakewood, 5712 Main Street SW, Lakewood 98499  
     + Pierce North, 1949 S State St, 1st Floor, Tacoma 98405  
