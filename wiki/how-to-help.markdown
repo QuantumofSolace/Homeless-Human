@@ -35,8 +35,9 @@ We're part of a highly diverse population. As a helper (a person doing outreach)
 
 To dispell some common thoughts that make this more difficult:
 
+
 Myth | Fact
----
+--- | ---
 Everyone is equal, so we should ignore race, ethnicity, and culture. 
 ---
 Everyone does deserve to be treated equally and with respect. However, we are in no way all the same! Our different cultures and life experiences define our differences, and those differences make us human.
