@@ -56,7 +56,7 @@ _Data shows: the most successful helpers ask fewer, more open questions. Specifi
 
 - - -
 
-### Strength Identifiers
+#### Strength Identifiers ####
 Often, a person needs to be reminded that they have inherent positive qualities. They need to be reminded that they're strong enough to fight their way through their struggle. Giving them a strength identifier accomplishes this in an empowering, non-patronizing manner. It can feel a little weird to do this - especially if you aren't feeling terribly confident yourself - but don't worry. It'll get much more natural with time, and even leak into your normal conversations.
 
 A person in any sort of crisis will tend to place their attention on negatives, which tends to spiral downward. What can you do about that? Remind them of some of the positives, of course! This takes paying close attention and empathizing with the person enough to understand just what their strengths are. A good strength identifier for somebody who has reached out to you for help is to let them know it's brave to reach out. It can be difficult to get through to a person this way, but it's well worth it. For example, if a person is feeling stupid, telling them that they are smart won't help. They aren't going to believe you. However, if you were to say something like "You're trying to get help now, that seems pretty smart to me!" and leave it alone. This can be the time to express a personal feeling yourself, like "I appreciate your bravery.. it's hard to share something like that", or "I'm inspired by how much work you've put into getting this far". 
@@ -65,46 +65,17 @@ _Data shows: "brave," "smart," and "proud" are the three most successful strengt
 
 - - -
 
-### Silence...
+#### Silence... ####
 Sweet, powerful, uncomfortable silence. Sometimes, the best thing you can say is nothing. It might not immediately seem like the best way to build rapport, but we swear the science backs this up. Pausing in a conversation allows the client and helper to both process. It allows an opening for the client to elaborate if they need to. A natural pause can show that you're paying full attention, and not planning your next reply. There's no need to be incredibly awkward, but sometimes waiting a bit before you speak can make all the difference.
 
 - - -
 
-### Vocabulary and Vernacular
+#### Vocabulary and Vernacular ####
+Word choice is incredibly important to making a client feel heard, and understood. It's tough, but finding the appropriate phrasing helps you to comprehend the unique situation the person is in, and better validates their feelings. Often, the most useful words actually feel the strangest to use! Expanding your "feeling" vocabulary is essential; the more varied your emotional vocabulary, the more specifically you can understand your client. Sometimes, using a high-impact emotional word like "devistated" rather than "sad" can express an understanding of the depth of their feelings.
 
-Strong feeling words help our texters feel heard and understood. Finding the appropriate vocabulary for paraphrasing a texter’s crisis helps us (a) capture the uniqueness of the crisis (b) validate the texter’s feelings, and (c) better understand what the texter is going through.
-The trouble is, most strong feeling words don’t seem natural to us. That’s okay! Part of your training here at Crisis Text Line will help you expand your feeling vocabulary. The more feeling words we have in our back pocket, the more specific we can be in understanding a texter’s feelings and thoughts.
-To give you an idea of the impact feeling words and vocabulary can have, take a look at the two messages below, taking note of the pluses and wishes. It’s amazing what a difference a single word makes!
-Less Effective Example
+Try writing a few stories, and with each edition make the feeling words more intense. You'll need to explore and expand on Happy, Sad, Scared, Confused, Nervous, and Anxious among others. Try to find words that fit how you speak in a relatively natural way. Using the stronger terms will feel more natural as you practice. Use your judgement - as with every other part of this system, it can't be done by a computer. Only a human being who actually feels will do.
 
-Texter: “I got fired from my job at the mall today. It was total crap – I didn’t do what they said I did but no one would believe me. I feel like I could punch somebody.”
-Crisis Counselor: “It seems like you’re mad about being treated unfairly and not trusted.”
-Wish: Telling the texter that they are “mad” doesn’t quite validate the strong emotions that the texter is feeling. Using a feeling word that is too weak can also minimize the texter’s feelings.
-Effective Example
-
-Texter: “I got fired from my job at the mall today. It was total crap – I didn’t do what they said I did but no one would believe me. I feel like I could punch somebody.”
-Crisis Counselor: “It seems like you’re furious about being treated unfairly and not trusted.”
-Plus: Saying that the texter is “furious” instead of just “mad” lets the texter know that you truly heard them, and helps you build rapport as you continue the conversation.
-
-
-Rather than asking you to memorize a list, we want you to brainstorm some strong feeling words of your own. Take a look at the five categories below, and try to come up with three strong feeling words per category. We gave you a few examples to get you started.
-Happy	Sad	Angry	Scared	Confused
-Cheerful	Devastated	Furious	Nervous	Anxious
-•	•	•	•	•
-•	•	•	•	•
-•	•	•	•	•
-Now, take a look at this Cheat Sheet to find feeling words. Don’t worry, you won’t be expected to have memorized all of these words! The starred words in the Cheat Sheet are more advanced: use your judgment in deciding which words to use, based on the texter’s use of language. Cheat sheets like this will be available for you on the platform as you take conversations. You will notice, however, that over time certain words will feel more comfortable to you. As you read through the lists below, circle 5-10 words that you could see yourself using in conversation, and try to hold those in mind as you complete training.
-
-
-
-Technique	Effect/Benefit	When to Use It	Example
-Reflection and Paraphrasing	Shows that you are listening to the texter and doing your best to put yourself in their shoes.	When you want to doube-check that you’re understanding the texter correctly, without having to ask.	“So you already felt isolated, and today’s incident just added fuel to the fire?”
-Validation	Lets the texter know that their feelings are normal and natural, and that there’s nothing wrong with them for feeling that way.	When the texter has just described a difficult emotion, or tries to minimize their own feelings. (For example, “It’s stupid for me to feel that way.”)	“From what you’ve been saying about the fight, it’s understandable that you’re feeling overwhelmed and upset.”
-Tentafier	Allows you to avoid making assumptions about what the texter is feeling.	To get the texter to share more about a particular feeling without asking a question.	“It sounds like you are feeling worred about how your parents will react.”
-Empathetic Response	Shows (rather than tells!) the texter that you’re there for them.	When you want to show the texter that you care about what they’re going through (instead of using a sympathetic response like “I’m sorry.”)	“You’re saying you’re feeling abandoned because you haven’t heard back from your friend. It can be devastating to feel that way.”
-Strength ID	Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
-Open-Ended Question	Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
-
+- - -
 
 #### Minimizers and Maximizers ####
 
@@ -120,3 +91,12 @@ Effective Example
 
 Texter: “I think I’ve been depressed for a long time. I’m fat and I hate being this way, but I can’t get skinny. No one is ever going to like me”
 Crisis Counselor: “I’m hearing that your feelings about your weight are painful and upsetting.”
+
+
+Technique	Effect/Benefit	When to Use It	Example
+Reflection and Paraphrasing	Shows that you are listening to the texter and doing your best to put yourself in their shoes.	When you want to doube-check that you’re understanding the texter correctly, without having to ask.	“So you already felt isolated, and today’s incident just added fuel to the fire?”
+Validation	Lets the texter know that their feelings are normal and natural, and that there’s nothing wrong with them for feeling that way.	When the texter has just described a difficult emotion, or tries to minimize their own feelings. (For example, “It’s stupid for me to feel that way.”)	“From what you’ve been saying about the fight, it’s understandable that you’re feeling overwhelmed and upset.”
+Tentafier	Allows you to avoid making assumptions about what the texter is feeling.	To get the texter to share more about a particular feeling without asking a question.	“It sounds like you are feeling worred about how your parents will react.”
+Empathetic Response	Shows (rather than tells!) the texter that you’re there for them.	When you want to show the texter that you care about what they’re going through (instead of using a sympathetic response like “I’m sorry.”)	“You’re saying you’re feeling abandoned because you haven’t heard back from your friend. It can be devastating to feel that way.”
+Strength ID	Shows the texter that they have inherent positive qulaities, and have the strength to fight through their struggles.	To guide the texter toward being more open to help. To reflect and demonstrate the texter’s inherent strengths back to them. To empower the texter toward collaborative problem-solving and action planning.	“It was brave of you to reach out for help today.”
+Open-Ended Question	Allows the texter to expand upon what they are feeling and thinking. Allows you to explore the situation without interviewing the texter.	To learn more and dig deeper into the texter’s thoughts and feelings. To give added momentum to the Exploration stage.	“Can you tell me more about the frustrating thoughts you’ve been having?”
